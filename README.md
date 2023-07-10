@@ -10,7 +10,7 @@ To compile and run the code, follow these steps:
 4. Run the following command to compile the code:
 
    ```bash
-   gcc -o program main.c
+   gcc -o program binaryseach.c
    ```
 
    This command will generate an executable file named `program`.

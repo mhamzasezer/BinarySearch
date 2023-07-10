@@ -1,5 +1,5 @@
-# BinarySearch
-This code implements a binary search algorithm to search for a specific key in an array of structures. The program reads data from a CSV file, performs a binary search on the data, and outputs the corresponding data if found.
+# Binary Search Algorithm
+This C code implements a binary search algorithm to search for a specific key in an array of structures. The program reads data from a CSV file, performs a binary search on the data, and outputs the corresponding data if found.
 
 ## Getting Started
 To compile and run the code, follow these steps:
